@@ -1,0 +1,3 @@
+JSON output: analyze the attached image and Give me a json file consisting of all items in this image, with following columns: Item Name: name of each Item in the image Component: the most similar component from Google's Material Design Label: the Label text of each item Horizontal Location: How far they are compared to the left edge of image (%) Vertical Location: How far they are compared to the top edge of image (%) Component link: the link to the corresponding identified 1st Closest Component sort according to Vertical Location only return the json and no extra text, take as much time as you need, DO NOT Hallucinate Double check the Component link to make sure they are valid links
+
+change
